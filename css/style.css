@@ -1,0 +1,14 @@
+th {
+    background: gray;
+    border: thin solid rgb(105, 105, 105);
+}
+td {
+    background: lightgray;
+    border: thin solid gray;
+}
+table{
+    border-collapse: collapse;
+}
+form{
+    margin:15px;
+}
